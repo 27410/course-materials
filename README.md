@@ -1,2 +1,2 @@
 # course-materials
-Containing class exercises and data
+Containing class exercises and data.
