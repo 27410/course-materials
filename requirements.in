@@ -1,0 +1,9 @@
+cobra
+networkx
+pytest
+matplotlib
+numpy
+scipy
+sklearn
+pandas
+tqdm
