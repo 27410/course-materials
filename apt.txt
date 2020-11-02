@@ -3,6 +3,4 @@ cmake
 curl
 git-core
 libgmp-dev
-python3-dev
-python3-pip
 python-pybind11
