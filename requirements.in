@@ -9,4 +9,4 @@ sklearn
 pandas
 tqdm
 altair
-git+https://gitlab.com/davidtourigny/dynamic-fba/
+git+https://gitlab.com/davidtourigny/dynamic-fba/ --install-option="--no-use-pep517"

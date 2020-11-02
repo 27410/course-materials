@@ -4,6 +4,8 @@
 #
 #    pip-compile
 #
+--no-binary :all:
+
 altair==4.1.0             # via -r requirements.in
 appnope==0.1.0            # via ipykernel, ipython
 argon2-cffi==20.1.0       # via notebook
