@@ -1,6 +1,0 @@
-build-essential
-cmake
-curl
-git-core
-libgmp-dev
-python-pybind11
