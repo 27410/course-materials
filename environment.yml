@@ -4,14 +4,14 @@ channels:
 dependencies:
   - python
   - numpy
-  - sklearn
-  - pandas
-  - altair
-  - tqdm
-  - networkx
-  - matplotlib
   - pip
   - pip:
     - cobra
     - cameo
     - pytest
+    - sklearn
+    - pandas
+    - altair
+    - tqdm
+    - networkx
+    - matplotlib
