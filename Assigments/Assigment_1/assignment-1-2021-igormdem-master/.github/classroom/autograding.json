@@ -1,0 +1,54 @@
+{
+  "tests": [
+    {
+      "name": "Calculate Yields - Y_sx",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignment.py assignment.py -k 'test_Y_sx'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "Calculate Yields - Y_se",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignment.py assignment.py -k 'test_Y_se'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "Calculate Yields - Y_sg",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignment.py assignment.py -k 'test_Y_sg'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "Calculate Yields - Carbon balance",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignment.py assignment.py -k 'test_carbon_balance'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "Calculate Yields - CO2 produced",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignment.py assignment.py -k 'test_co2_produced'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    }
+  ]
+}
